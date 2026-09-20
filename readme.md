@@ -10,5 +10,4 @@
 
 ### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,sql,svelte,reactgit,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,sql,svelte,react,git,figma)](https://skillicons.dev)
